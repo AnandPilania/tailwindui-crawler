@@ -1,0 +1,16 @@
+<template>
+    <div>
+    <label for="email" class="sr-only">Email</label>
+    <div class="relative rounded-md shadow-sm">
+      <input id="email" class="form-input block w-full sm:text-sm sm:leading-5" placeholder="you@example.com" />
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  data: () => ({
+	
+  })
+}
+</script>
